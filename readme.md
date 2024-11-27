@@ -58,6 +58,7 @@ This script automates check-in interaction for OpenLayer extension.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Note
-This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
+This script only for testing purpose, using this script might violates ToS and may get your account permanently banned. 
+Please attention your wallet risk,suggest do it with your new wallet that no assets in it
 
 My reff code if you want to use :), [J9DAAW][QR7SYY][9F97GG]
