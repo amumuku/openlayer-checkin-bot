@@ -15,7 +15,7 @@ This script automates check-in interaction for OpenLayer extension.
 
 1. Clone the repository to your local machine:
    ```bash
-	git clone https://github.com/recitativonika/openlayer-checkin-bot.git
+	git clone https://github.com/amumuku/openlayer-checkin-bot.git
    ```
 2. Navigate to the project directory:
 	```bash
